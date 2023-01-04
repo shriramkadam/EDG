@@ -1,0 +1,6 @@
+framework module Pods_BeverageShoppingApp {
+  umbrella header "Pods-BeverageShoppingApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
